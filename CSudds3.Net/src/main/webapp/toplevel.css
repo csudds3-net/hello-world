@@ -1,0 +1,68 @@
+/* 
+    Document   : toplevel
+    Created on : Mar 3, 2013
+    Author     : ccsudderth
+    Description:
+*/
+
+root { 
+    display: block;
+
+}
+
+html {
+    height: 100%; 
+}
+
+body {
+    height: 100%; 
+}
+
+div.header {
+	padding-bottom: 20px;
+}
+
+div.sectionHeader {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    width: 600px;
+    height: 60px;	
+	
+}
+
+div.sectionFooter {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    width: 600px;
+    height: 60px;	
+	
+}
+
+h1 {
+    font-size: 16px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 14px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+p {
+    font-size: 14px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.small-text {
+    font-size: 10px;
+}
+
+td {
+	border-left: 5px solid #A7A37E;
+	font-size: 10px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.even {
+	background-color: #E7F7FF;
+}
+
+.highlight {
+	background-color: #FC6 !important;
+}
